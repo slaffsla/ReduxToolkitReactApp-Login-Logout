@@ -1,6 +1,8 @@
 .main{
   background-color: #282c34;
-}.App {
+}
+
+.App {
   text-align: center;
   background-image: linear-gradient(rgb(224, 54, 54), rgb(80, 63, 63))
 }
